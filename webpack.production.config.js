@@ -7,10 +7,10 @@ module.exports = {
   entry: './src/index',
 
   output: {
-    library: 'ReactShareButtons',
+    library: 'ReactLetterAvatar',
     libraryTarget: 'umd',
     path: __dirname + '/dist/',
-    filename: 'react-share-buttons.js'
+    filename: 'react-letter-avatar.js'
   },
 
   externals: [{

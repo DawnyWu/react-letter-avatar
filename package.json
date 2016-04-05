@@ -1,8 +1,8 @@
 {
-  "name": "react-share-buttons",
+  "name": "react-letter-avatar",
   "version": "1.0.1",
   "description": "",
-  "main": "dist/react-share-buttons.js",
+  "main": "dist/react-letter-avatar.js",
   "scripts": {
     "start": "./node_modules/.bin/babel-node example/server.js",
     "compile": "webpack -p --config webpack.production.config.js",
@@ -19,7 +19,6 @@
     "file-loader": "^0.8.5",
     "json-loader": "^0.5.4",
     "lodash": "^4.5.1",
-    "qrcode.react": "^0.6.0",
     "react": "^0.14.3",
     "react-dom": "^0.14.3",
     "style-loader": "^0.13.0",
