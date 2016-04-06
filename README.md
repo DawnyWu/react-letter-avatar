@@ -16,8 +16,13 @@ npm start
 
 
 # 使用
+`npm install react-letter-avatar --save`
+
 
 ```js
+import ReactLetterAvatar from 'react-letter-avatar'
+
+
 <ReactLetterAvatar 
   name="Dawny Wu"
   size={50}

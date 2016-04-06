@@ -1,6 +1,6 @@
 {
   "name": "react-letter-avatar",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "dist/react-letter-avatar.js",
   "scripts": {
@@ -8,7 +8,7 @@
     "compile": "webpack -p --config webpack.production.config.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "DawnyWu",
   "license": "ISC",
   "dependencies": {
     "babel-core": "^6.3.26",
