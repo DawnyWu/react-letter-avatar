@@ -1,5 +1,4 @@
 import React, { PropTypes, Component } from 'react'
-import _ from 'lodash'
 import google from './colors'
 
 const propTypes = {
